@@ -18,7 +18,7 @@
 
 [![Chaaany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaaany)](https://github.com/Chaaany)
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chaaany)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chaaany&theme=blueberry-duo)](https://git.io/streak-stats)
   
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaaany&theme=tokyonight)  
