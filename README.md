@@ -34,7 +34,7 @@ LG Uplus DevOps Engineer.
 - [실제 메모리 문제를 분석하는 흐름](https://chaaany.tistory.com/496)
 - [시스템 성능 엔지니어링: 네트워크 기초](https://chaaany.tistory.com/500)
 
-## Credentials
+## Certifications
 
 - AWS Certified SysOps Administrator – Associate · 2023-06
 - CKA: Certified Kubernetes Administrator · 2023-10
