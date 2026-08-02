@@ -31,8 +31,9 @@
 - **Systems** — [실제 메모리 문제를 분석하는 흐름](https://chaaany.tistory.com/496)
 - **AI & Automation** — [MCP 서버를 구현하고 Amazon Q Developer에 연결하기](https://chaaany.tistory.com/436)
 
-## Credential
+## Certifications
 
-- **CKA: Certified Kubernetes Administrator** · Valid through 2026-10
+- **CKA: Certified Kubernetes Administrator** · Active through 2026-10
+- **AWS Certified SysOps Administrator – Associate** · Certification history · 2023-06–2026-06
 
 <sub>Professional experience is summarized from LinkedIn. Technical articles are writing and learning records.</sub>
